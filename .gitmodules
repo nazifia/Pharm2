@@ -1,0 +1,3 @@
+[submodule "Pharm"]
+	path = Pharm
+	url = https://github.com/nazifia/Pharm.git
